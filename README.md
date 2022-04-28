@@ -7,9 +7,9 @@
  
  
  ##
-- 🔭 Hoje Trabalho como Front-end.
-- 🌱 Estutando:  Vue.js, Node.js e React.js.
-- 💬 Um pouco mais sobre min: Trabalhei como mecânico de motos por 5 anos e hoje atuo na área que sempre sonhei Desenvolvedor.
+- 🔭 Hoje Trabalho como Front-end
+- 🌱 Estutando:  Estudando para ser fluênte em Javascript, Vue.js
+- 💬 Um pouco mais sobre min: Sou um Desenvolvedor Front-end Júnior buscando a Fluencia em Javascript e css.
 - 📫 Contate-me no e-mail: wilkerferreira818@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
