@@ -2,7 +2,7 @@
  ##
  
  <p align="center">
-  <a href="https://github.com/wilker818"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
+  <a href="https://github.com/wilker818"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineer%20front-end%20;I%27ll%20be%20good%20at%20TypeScript&font=Fira%20Code&center=true&width=440&height=45&color=007ACCe&vCenter=true&size=22"  ></a>
 </p>
  
  
