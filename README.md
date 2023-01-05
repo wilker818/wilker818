@@ -7,9 +7,9 @@
  
  
  ##
-- 🔭 Hoje Trabalho como Front-end
-- 🌱 Estutando:  Estudando para ser fluênte em Javascript, Vue.js
-- 💬 Um pouco mais sobre min: Sou um Desenvolvedor Front-end Júnior buscando a Fluencia em Javascript e css.
+- 🔭 Hoje Trabalho como Engenheiro de Software Front-end
+- 🌱 Estutando:  De tudo um pouco
+- 💬 Um pouco mais sobre min: Sou Engenheiro de Software e realizo o desenvolvimento do começo ao fim das aplicações web da Cardano Warriors, utilizando sem as boas práticas de um código limpo. Sigo sempre estudando para aprimirorar meus conhecimentos
 - 📫 Contate-me no e-mail: wilkerferreira818@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
