@@ -20,7 +20,7 @@
   <img align="center" alt="wilker-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="wilker-Vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="wilker-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> 
+  <img align="center  alt="wilker-Angular" width="50" height="50" src="https://angular.io/assets/images/logos/angular/angular.svg"/> 
   <img align="center" alt="wilker-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="wilker-Php" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="wilker-Node" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
