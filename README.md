@@ -8,11 +8,10 @@
  
  ##
 - 🔭 Hoje Trabalho como Engenheiro de Software Front-end
-- 🌱 Estutando:  De tudo um pouco
-- 💬 Um pouco mais sobre min: Sou Engenheiro de Software e realizo o desenvolvimento do começo ao fim das aplicações web da Cardano Warriors, utilizando sem as boas práticas de um código limpo. Sigo sempre estudando para aprimirorar meus conhecimentos
+- 🌱 Estutando: Node.js, Docker
+- 💬 Um pouco mais sobre min: Sou Engenheiro de Software Fron-end e realizo o desenvolvimento do começo ao fim das aplicações web da Cardano Warriors, utilizando sempre as boas práticas de um código limpo. Sigo sempre estudando para aprimorar meus conhecimentos
 - 📫 Contate-me no e-mail: wilkerferreira818@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center;"><br> 
   <img align="center" alt="wilker-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +20,7 @@
   <img align="center" alt="wilker-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="wilker-Vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="wilker-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> 
   <img align="center" alt="wilker-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="wilker-Php" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="wilker-Node" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
